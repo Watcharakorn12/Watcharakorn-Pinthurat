@@ -1,0 +1,182 @@
+[
+  {
+    "authors": "K. Orkweha, K. Phapatanaburi, W. Pinthurat, C. Makhonpas, W. Pathonsuwan, P. Anchuen, M. Uthansakul, and P. Uthansakul",
+    "title": "Conventional MFCC and phase-difference MFCC interaction network for durian days-after-anthesis estimation,",
+    "detail": "Computers and Electronics in Agriculture, vol. 254, pp. 112227, 2026.",
+    "year": "2026"
+  },
+  {
+    "authors": "K. Phapatanaburi, K. Orkweha, W. Pinthurat, M. Uthansakul, and P. Uthansakul",
+    "title": "PM-ALIGN: Phase–magnitude embedding alignment for auto-tune detection,",
+    "detail": "Intelligent Systems with Applications, vol. 31, pp. 200699, 2026.",
+    "year": "2026"
+  },
+  {
+    "authors": "K. Phapatanaburi, K. Orkweha, W. Pinthurat, C. Makhonpas, W. Pathonsuwan, P. Anchuen, M. Uthansakul, and P. Uthansakul",
+    "title": "A dual-stream CNN-based ConvMixer for durian ripeness classification using magnitude and phase features from knocking sounds,",
+    "detail": "Results in Engineering, vol. 28, pp. 108170, 2025.",
+    "year": "2025"
+  },
+  {
+    "authors": "K. Orkweha, K. Phapatanaburi, W. Pinthurat, C. Makhomnpas, W. Pathonsuwan, P. Anchuen, M. Uthansakul, and P. Uthansakul",
+    "title": "RFAConv: A novel deep learning approach combining receptive-field attention convolution and Kolmogorov-Arnold network for classifying durian ripeness from knocking sounds,",
+    "detail": "Smart Agricultural Technology, vol. 12, pp. 191625, 2025.",
+    "year": "2025"
+  },
+  {
+    "authors": "T. Surinkaew, W. Pinthurat, B. Marungsri, and B. Hredzak",
+    "title": "Two-stage small signal stability-assisted framework using controllable loads in reconfigurable microgrids,",
+    "detail": "IEEE Open Access Journal of Power and Energy, vol. 12, pp. 772-783, 2025.",
+    "year": "2025"
+  },
+  {
+    "authors": "W. Pinthurat, A. Deanseekeaw, T. Surinkaew, T. Boonraksa, P. Boonraksa, and B. Marungsri",
+    "title": "An intelligent voltage control with power loss model integration in active distribution network,",
+    "detail": "IEEE Open Access Journal of Power and Energy, vol. 12, pp. 678-690, 2025.",
+    "year": "2025"
+  },
+  {
+    "authors": "T. Surinkaew, W. Pinthurat, J. Yang, and I. Ngamroo",
+    "title": "Embedded intelligent reactive power control for distributed controllable loads to support grid voltage considering islanding conditions,",
+    "detail": "IEEE Transactions on Smart Grid, vol. 16, no. 2, pp. 4921-4937, 2025.",
+    "year": "2025"
+  },
+  {
+    "authors": "A. Deanseekeaw, W. Pinthurat, and B. Marungsri",
+    "title": "Multi-objective-based multi-heterogeneous-agent deep reinforcement learning for minimization of voltage deviation and operation cost in active distribution system,",
+    "detail": "IEEE Access, vol. 13, pp. 75648-75665, 2025.",
+    "year": "2025"
+  },
+  {
+    "authors": "P. Sun, W. Pinthurat, G. Li, M. Khalid, G. Town, and G. Konstantinou",
+    "title": "Adaptive droop control in VSC-based MT-MVDC distribution systems considering ESS participation,",
+    "detail": "IEEE Transactions on Energy Conversion, vol. 40, no. 2, pp. 761-772, 2024.",
+    "year": "2024"
+  },
+  {
+    "authors": "W. Janchomphu, N. Pannucharoenwong, S. Echaroj, P. Iamtrakul, and W. Pinthurat",
+    "title": "Factors influencing consumer adoption of electric vehicles replacements: A case study in Eastern Economic Corridor, Thailand,",
+    "detail": "GMASARN International Journal, vol. 19, no. 4, pp. 581-588, 2025.",
+    "year": "2025"
+  },
+  {
+    "authors": "W. Pinthurat, and B. Hredzak",
+    "title": "Multi-agent deep reinforcement learning for mitigation of unbalanced active powers using distributed batteries in low voltage residential distribution system,",
+    "detail": "Electric power Systems Research, vol. 245, pp. 111599, 2025.",
+    "year": "2025"
+  },
+  {
+    "authors": "K. Orkweha, K. Phapatanaburi, W. Pathonsuwan, T. Jumphoo, A. Rattanasak, P. Anuchuen, W. Pinthurat, M. Uthansakul, and P. Uthansakul",
+    "title": "A framework for detecting pulmonary diseases from lung sound signals using a hybrid multi-task autoencoders-SVM model,",
+    "detail": "Symmetry, vol. 16, issue: 11, pp. 1413, 2024.",
+    "year": "2024"
+  },
+  {
+    "authors": "W. Pinthurat, T. Surinkaew, and B. Hredzak",
+    "title": "An overview of reinforcement learning-based approaches for smart home energy management systems with energy storages,",
+    "detail": "Renewable and Sustainable Energy Reviews, vol. 202, pp. 114648, 2024.",
+    "year": "2024"
+  },
+  {
+    "authors": "W. Pinthurat, P. Kongsuk, T. Surinkaew, and B. Marungsri",
+    "title": "An adaptive data-driven-based control for voltage control loop of grid-forming converters in variable inertia MGs,",
+    "detail": "IEEE Access, vol. 12, pp. 58143-58155, 2024.",
+    "year": "2024"
+  },
+  {
+    "authors": "T. Boonraksa, P. Boonraksa, W. Pinthurat, and B. Marungsri",
+    "title": "Optimal battery charging schedule for a battery swapping station of an electric bus with a PV integration considering energy costs and peak-to-average ratio,",
+    "detail": "IEEE Access, vol. 12, pp. 36280-36295, 2024.",
+    "year": "2024"
+  },
+  {
+    "authors": "W. Pinthurat, T. Surinkaew, and B. Hredzak",
+    "title": "Simultaneous voltage regulation and unbalance compensation in distribution systems with an information-driven learning approach,",
+    "detail": "IEEE Transactions on Industrial Informatics, vol. 20, no. 4, pp. 5888-5898, 2024.",
+    "year": "2024"
+  },
+  {
+    "authors": "W. Pinthurat, P. Kongsuk, and B. Marungsri",
+    "title": "Robust-adaptive controllers designed for grid-forming converters ensuring various low-inertia microgrid conditions,",
+    "detail": "Smart Cities, vol. 6, no. 5, pp. 2944-2959, 2023.",
+    "year": "2023"
+  },
+  {
+    "authors": "A. Paudel, W. Pinthurat, and B. Marungsri",
+    "title": "Impact of large-scale electric vehicles’ promotion in Thailand considering energy mix, peak load, and greenhouse gas emissions,",
+    "detail": "Smart Cities, vol. 6, no. 5, pp. 2619-2638, 2023.",
+    "year": "2023"
+  },
+  {
+    "authors": "T. Boonraksa, W. Pinthurat, P. Wongdet, P. Boonraksa, B. Marungsri, and B. Hredzak",
+    "title": "Optimal capacity and cost analysis of hybrid energy storage system in standalone DC microgrid,",
+    "detail": "IEEE Access, vol. 11, pp. 65496-65506, 2023.",
+    "year": "2023"
+  },
+  {
+    "authors": "W. Pinthurat, and B. Hredzak",
+    "title": "Unbalanced powers compensation by distributed batteries in microgrid: A data-driven approach,",
+    "detail": "IEEE Transactions on Power Delivery, vol. 38, no. 4, pp. 2901-2911, 2023.",
+    "year": "2023"
+  },
+  {
+    "authors": "N. Khortsriwong, P. Boonraksa, T. Boonraksa, T. Fangsuwannarak, A. Boonsrirat, W. Pinthurat, and B. Marungsri",
+    "title": "Performance of deep learning techniques for forecasting PV power generation: A case study on a 1.5 MWp floating PV power plant,",
+    "detail": "Energies, vol. 16, no. 5, pp. 2119, 2023.",
+    "year": "2023"
+  },
+  {
+    "authors": "P. Wongdet, T. Boonraksa, P. Boonraksa, W. Pinthurat, B. Marungsri, and B. Hredzak",
+    "title": "Optimal capacity and cost analysis of battery energy storage system in standalone microgrid considering battery lifetime,",
+    "detail": "Batteries, vol. 9, no. 2, pp. 76, 2023.",
+    "year": "2023"
+  },
+  {
+    "authors": "W. Pinthurat, B. Hredzak, G. Konstantinou, and J. Fletcher",
+    "title": "Techniques for compensation of unbalanced conditions in LV distribution networks with integrated renewable generation: An overview,",
+    "detail": "Electric Power Systems Research, vol. 214, pp. 108932, 2023.",
+    "year": "2023"
+  },
+  {
+    "authors": "S. L. L. Wynn, T. Boonraksa, P. Boonraksa, W. Pinthurat, and B. Marungsri",
+    "title": "Decentralized energy management system in microgrid considering uncertainty and demand response,",
+    "detail": "Electronics, vol. 12, no. 1, pp. 237, 2023.",
+    "year": "2023"
+  },
+  {
+    "authors": "S. L. L. Wynn, W. Pinthurat, and B. Marungsri",
+    "title": "Multi-objective optimization for peak shaving with demand response under renewable generation uncertainty,",
+    "detail": "Energies, vol. 15, no. 23, pp. 8989, 2022.",
+    "year": "2022"
+  },
+  {
+    "authors": "W. Pinthurat, and B. Hredzak",
+    "title": "Strategy for compensation of unbalanced powers in LV residential distribution networks using distributed single-phase battery systems,",
+    "detail": "Electric Power Systems Research, vol. 211, pp. 108253, 2022.",
+    "year": "2022"
+  },
+  {
+    "authors": "W. Pinthurat, and B. Hredzak",
+    "title": "Distributed control strategy of single-phase battery systems for compensation of unbalanced active powers in a three-phase four-wire microgrid,",
+    "detail": "Energies, vol. 14, no. 24, pp. 8287, 2021.",
+    "year": "2021"
+  },
+  {
+    "authors": "W. Pinthurat, and B. Hredzak",
+    "title": "Fully decentralized control strategy for heterogeneous energy storage systems distributed in islanded DC datacentre microgrid,",
+    "detail": "Energy, vol. 231, pp. 120914, 2021.",
+    "year": "2021"
+  },
+  {
+    "authors": "W. Pinthurat, and B. Hredzak",
+    "title": "Decentralized frequency control of battery energy storage systems distributed in isolated microgrid,",
+    "detail": "Energies, vol. 13, no. 11, pp. 3026, 2020.",
+    "year": "2020"
+  },
+  {
+    "authors": "G. M. Tristan Jr, J. G. Singh, and W. Pinthurat",
+    "title": "Power flow and small signal stability analysis on the interconnected Philippine power grid,",
+    "detail": "Perspectives in Science, vol. 8, pp. 589-591, 2016.",
+    "year": "2016"
+  }
+]
